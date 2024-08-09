@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Güner KALAN</h1>
-<h3 align="center">👩‍💻 I am a Computer engineer and I am working Senior Software Developer</h3>
-
-- 🔭 I’m currently working on [QuestApp](https://github.com/gunerkalan/QuestApp)
-
-- 🌱 I’m currently learning **Microservices and React**
-
-- 📝 I regularly write articles on [@codewithguner](@codewithguner)
+<h3 align="center">👩‍💻 I am a Computer engineer and I am working FullStack Software Developer</h3>
 
 - 💬 Ask me about **Java, Spring Boot, Angular,Docker, Microservice, OOP**
 
